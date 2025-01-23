@@ -5,7 +5,7 @@ class HelloWorld {
     {
         System.out.println("Hello, World");
         System.out.println("Hello, World");
-        System.out.println("Hello, World"); //ok
+        System.out.println("Hello, World"); // no ok
         
     }
 }
